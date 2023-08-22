@@ -5,7 +5,9 @@ Welcome to the official GitHub profile of **Tech Team Titan** – your gateway t
 
 [![Instagram Badge](https://img.shields.io/badge/-Tech_Team_Titans-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/techteamtitans/)](https://www.instagram.com/techteamtitans/)
 [![Hashnode Badge](https://img.shields.io/badge/-Tech_Titans_Blog-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://techteamtitans.hashnode.dev/)](https://techteamtitans.hashnode.dev/)
-[![Portfolio Website Badge](https://img.shields.io/badge/-Bio_Link-black?style=flat-square&logo=BioLink&logoColor=white&link=https://techteamtitans.bio.link/)](https://techteamtitans.bio.link/)
+[![Portfolio Website Badge](https://img.shields.io/badge/-Bio_Link-black?style=flat-square&logo=BioLink&logoColor=white)](https://techteamtitans.bio.link/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/Tech-Team-Titans)
+
 
 [![Tech Team Titan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tech-team-titans&bg_color=070d0b&color=ffffff&line=23d158&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
