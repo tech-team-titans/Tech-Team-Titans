@@ -1,5 +1,5 @@
 
-# Hey, there great to see you 👋🏻
+# Hey, there Great to see you 👋🏻
 
 Welcome to the official GitHub profile of **Tech Team Titan** – your gateway to innovative **Web development** solutions.
 
