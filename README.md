@@ -14,7 +14,7 @@ Welcome to the official GitHub profile of **Tech Team Titan** – your gateway t
 ## Who We Are 🌟
 
 A **Solopreneur** from **India**.
-At Tech Team Titan, we're more than just developers; we're your digital partners, crafting tomorrow's web solutions today. With a passionate team of skilled developers, creative designers, and forward-thinking strategists, we specialize in empowering businesses to thrive in the digital landscape.
+At Tech Team Titan, we're more than just developers; we're your digital partners, crafting tomorrow's web solutions today.
 
 ## Why Choose Us 💡
 
