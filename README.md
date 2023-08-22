@@ -9,7 +9,7 @@ Welcome to the official GitHub profile of **Tech Team Titan** – your gateway t
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/Tech-Team-Titans)
 
 
-[![Tech Team Titan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tech-team-titans&bg_color=121212&color=d6cdd5&line=24bc8a&point=d25bbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tech Team Titan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tech-team-titans&bg_color=0a0a0a&color=3da3d6&line=1f99e5&point=30b7d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Who We Are 🌟
 
