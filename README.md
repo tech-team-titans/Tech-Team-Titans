@@ -1,5 +1,5 @@
 
-# Hey, there Great to see you 👋🏻
+# Hi, I am Pranav! Great to see you here! 👋🏻
 
 Welcome to **Tech Team Titan**, a **one-person powerhouse** dedicated to revolutionizing the digital landscape through open source contributions and innovative web development projects.
 
